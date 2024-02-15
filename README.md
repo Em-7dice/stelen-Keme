@@ -123,6 +123,7 @@ These cover all the words I use, plus some. I'm not that familiar with almost an
 𓐖 |pini
 𓆣 |pipi
 𓐞 |poka
+𓊬 |poki
 𓀠 |pona
 𓐣 |powe
 𓅣 |pu (from the glyph to create and to be good)
