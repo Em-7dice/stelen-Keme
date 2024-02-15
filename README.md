@@ -140,6 +140,7 @@ These cover all the words I use, plus some. I'm not that familiar with almost an
 𓆭 |soko
 𓄃 |sona
 𓃠 |soweli
+𓄙 |su (from the glyph to tell a story / dream)
 𓃰 |suli
 𓇴 |suno
 𓊨 |supa
