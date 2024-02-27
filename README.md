@@ -159,6 +159,8 @@ These cover all the words I use, plus some. I'm not that familiar with almost an
 𓆑 |usawi
 𓂋 |uta
 𓂚 |utala
+𓋑 |walo
+𓏤 |wan
 𓅓 |waso
 𓅢 |wawa
 𓍁 |weka
