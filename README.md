@@ -155,6 +155,10 @@ These cover all the words I use, plus some. I'm not that familiar with almost an
 𓉐 |tomo
 𓁟 |tonsi***
 𓏮 |tu
+𓍰 |unpa
+𓆑 |usawi
+𓂋 |uta
+𓂚 |utala
 𓅓 |waso
 𓅢 |wawa
 𓍁 |weka
